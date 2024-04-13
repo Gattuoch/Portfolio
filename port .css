@@ -7,6 +7,10 @@
     font-family: 'poppins','sans-serif';
     scroll-behavior: smooth;
 }
+
+body::-webkit-scrollbar{
+    display: none;
+}
 :root{
     --sideBGColor: #040b14;
     --themeBGColor: #00A78E ;
