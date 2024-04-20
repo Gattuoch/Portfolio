@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    /* margin: 20px; */
+    /* padding: 20px; */
+    background-color: gray;
+    background-image: radial-gradient(#eee5e5,hsla(240, 38%, 66%, 0.644));
+
+}
+header,nav,main{
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 3rem;
+}
+header{
+    background-color: hsl(0, 2%, 10%);
+    color: white;
+    top: 0%;
+
+
+}
+nav{
+    background-color:white ;
+    
+ 
+}
